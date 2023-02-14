@@ -36,3 +36,4 @@ App Preview:
 ![Getting Started](./img/preview.jpg)
 
 App Link:
+https://saulwade.github.io/work-day-scheduler/
